@@ -2,6 +2,10 @@
 
 A voxel sandbox game with endless generated worlds, survival mining and building, a God mode toggle and a day/night cycle.
 
+- **Forge** your way up: punch trees, make planks, then craft stone, iron and diamond mattocks that mine faster.
+- **Murks** come out at night. They're dark floating cubes with glowing eyes. Build a roofed shelter or light your base with glowstone, or fight them for coal.
+- **Sound** is fully generated in code: every dig, footstep and splash, plus a quiet melody that changes with the time of day.
+
 ## ⬇ [Download the latest version](https://github.com/Kavaykhurana/blockforge-releases/releases/latest)
 
 You don't need a GitHub account. Under **Assets**, pick the file for your computer:
@@ -20,6 +24,6 @@ The builds aren't code-signed, so first-run warnings are expected:
 
 ## Controls
 
-`WASD` move · `Space` jump · hold left mouse to mine · right mouse to place · `E` inventory · `G` God mode · `F` fly (God mode) · `Esc` pause
+`WASD` move · `Space` jump · hold left mouse to mine or fight · right mouse to place · `E` inventory and Forge · `G` God mode (no murks) · `F` fly (God mode) · `M` mute · `Esc` pause
 
 This repo only hosts the installers. The source code is private.
